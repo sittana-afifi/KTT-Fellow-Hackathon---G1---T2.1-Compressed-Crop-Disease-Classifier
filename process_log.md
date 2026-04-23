@@ -31,5 +31,4 @@
 
 ## **3. Hardest Decision Made**
 
-The primary dataset utilized did not contain the 'Bean Spot' class upon extraction. To maintain a functional 5-class architectural pipeline for the Hinga-AI classifier, I implemented a synthetic noise-injection strategy for the bean_spot class. This allows the model architecture and the USSD/API services to be fully verified, while noting that the model would require a specific 'Bean' fine-tuning pass once that specific leaf-set is procured."
 
