@@ -10,7 +10,7 @@ The core differentiator of this solution is the balance between **model compress
 ## **🚀 Performance Metrics**
 | Metric | Result | Target |
 | :--- | :--- | :--- |
-| **Model Size (INT8 Quantized)** | **[Insert Size, 5.94 MB]** | < 10 MB |
+| **Model Size (INT8 Quantized)** | **5.94 MB** | < 10 MB |
 | **Macro-F1 (Validation)** | **99.11%** | ≥ 80% |
 | **Macro-F1 (Field Test)** | **99.11%** | Robustness Check |
 | **Inference Latency** | **[Insert Latency, 282.93 ms]** | N/A |
