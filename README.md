@@ -21,7 +21,7 @@ The core differentiator of this solution is the balance between **model compress
 ```text
 .
 ├── data/
-│   ├── data_generater.ipynb                 # Dataset recipe and labels (gitignored images)
+│   ├── data_generator.ipynb                 # Dataset recipe and labels (gitignored images)
 ├── models/
 │   ├── model_quantized.onnx # Final <10MB production model
 │   └── train.py            # Training & Quantization script
